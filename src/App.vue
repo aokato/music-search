@@ -7,7 +7,7 @@
         >
       </v-toolbar-title>
       <v-spacer></v-spacer>
-
+      <p>by yasunari</p>
       <v-btn to="/" text>
         <span class="mr-2">HOME</span>
         <v-icon>mdi-open-in-new</v-icon>
