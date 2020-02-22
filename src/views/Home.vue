@@ -21,7 +21,6 @@
             v-text="t"
           />
         </div>
-        <p>a</p>
       </v-col>
     </v-row>
   </v-container>
