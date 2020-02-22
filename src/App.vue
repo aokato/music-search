@@ -8,9 +8,8 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <p>by yasunari</p>
-      <p>by shun</p>
       <v-btn to="/" text>
-        <span class="mr-2">HOME</span>
+        <span class="mr-2">HOUSE</span>
         <v-icon>mdi-open-in-new</v-icon>
       </v-btn>
     </v-app-bar>
