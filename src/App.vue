@@ -8,6 +8,7 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <p>by yasunari</p>
+      <p>ukyoブランチ</p>
       <p>あおぶらんち</p>
       <v-btn to="/" text>
         <span class="mr-2">HOUSE</span>
