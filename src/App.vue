@@ -2,12 +2,13 @@
   <v-app>
     <v-app-bar app color="pink" dark>
       <v-toolbar-title class="headline text-uppercase">
-        <router-link to="/" style="color:white;text-decoration:none;"
-          ><span>Music Search</span></router-link
-        >
+        <router-link to="/" style="color:white;text-decoration:none;">
+          <span>Music Search</span>
+        </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <p>by yasunari</p>
+      <p>by shun</p>
       <v-btn to="/" text>
         <span class="mr-2">HOME</span>
         <v-icon>mdi-open-in-new</v-icon>
