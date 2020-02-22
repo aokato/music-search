@@ -8,7 +8,7 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <p>by yasunari</p>
-      <p>泰成ブランチ</p>
+      <p>あおぶらんち</p>
       <v-btn to="/" text>
         <span class="mr-2">HOUSE</span>
         <v-icon>mdi-open-in-new</v-icon>
