@@ -3,7 +3,7 @@
     <v-app-bar app color="pink" dark>
       <v-toolbar-title class="headline text-uppercase">
         <router-link to="/" style="color:white;text-decoration:none;">
-          <span>Music Search</span>
+          <span>Ongaku Search</span>
         </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
